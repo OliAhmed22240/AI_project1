@@ -1,5 +1,4 @@
 images,labels
-data/images/.gitkeep,data/labels/.gitkeep.txt
 data/images/img_0.jpg,data/labels/img_0.txt
 data/images/img_1.jpg,data/labels/img_1.txt
 data/images/img_10.jpg,data/labels/img_10.txt
