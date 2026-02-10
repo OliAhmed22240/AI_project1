@@ -115,8 +115,7 @@ runs/
 *.pt
 
 # Datasets (ignore if large – recommended)
-data/images/
-data/labels/
+
 
 # ==============================
 # Misc
