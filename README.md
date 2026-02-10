@@ -23,20 +23,12 @@ All images are taken by group members in **indoor environments** such as classro
 - **images/**  
   Contains all images used in the project.
 
-- **images/train/**  
-  Training images used to train the object detection model.
-
-- **images/val/**  
-  Validation images used to evaluate the model.
-
 - **labels/**  
   Contains annotation files for the images.
 
-- **labels/train/**  
-  Label files corresponding to training images.
-
-- **labels/val/**  
-  Label files corresponding to validation images.
+  - **CSVs/**
+    Contains csv.files  
+  
 
 - **sample_image/**  
   Contains one original sample image used for project approval.
