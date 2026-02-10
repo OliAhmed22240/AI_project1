@@ -17,6 +17,9 @@ All images are taken by group members in **indoor environments** such as classro
 
 ## Directory Description
 
+
+### added new dir data/contains all dirs
+
 - **images/**  
   Contains all images used in the project.
 
