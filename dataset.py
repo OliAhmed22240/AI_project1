@@ -11,7 +11,7 @@ class ObjDetectionDataset(torch.utils.data.Dataset):
         return len(self.df)
 
     def __getitem__(self, idx):
-        # ✅ TODO 1: Get the row
+        # Get the row
         row = self.df.iloc[idx]
 
         img = Image.open(row["images"]).convert("RGB")
@@ -35,5 +35,5 @@ class ObjDetectionDataset(torch.utils.data.Dataset):
             "image_id": torch.tensor([idx]),
         }
 
-        # ✅ TODO 2: Return image and target
+        #Return image and target
         return image, target
