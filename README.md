@@ -17,23 +17,21 @@ All images are taken by group members in **indoor environments** such as classro
 
 ## Directory Description
 
-
 ### added new dir data/contains all dirs
 
-- **images/**  
+- images/  
   Contains all images used in the project.
 
-- **labels/**  
+- labels/  
   Contains annotation files for the images.
 
-  - **CSVs/**
-    Contains csv.files  
-  
+  - CSVs/  
+    Contains csv files  
 
-- **sample_image/**  
+- sample_image/  
   Contains one original sample image used for project approval.
 
-- **README.md**  
+- README.md  
   Project description and directory structure explanation.
 
 ---
